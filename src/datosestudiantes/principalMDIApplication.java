@@ -7,7 +7,7 @@ package datosestudiantes;
 
 /**
  *
- * @author milton
+ * @author Anleska obando
  */
 public class principalMDIApplication extends javax.swing.JFrame {
 
