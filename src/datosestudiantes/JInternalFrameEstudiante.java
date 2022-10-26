@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author GERSANIA AMADOR
+ * @author milton
  */
 public class JInternalFrameEstudiante extends javax.swing.JInternalFrame {
 

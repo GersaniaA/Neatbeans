@@ -7,7 +7,7 @@ package datosestudiantes;
 
 /**
  *
- * @author GERSANIA AMADOR
+ * @author milton
  */
 public class Estudiante {
     double carnet;
